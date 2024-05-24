@@ -28,7 +28,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=11914835&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats" style="max-width: 100%;">
 </a>
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/tiwari-ankit-9519">
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/11914835">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=11914835&amp;theme=dark&amp;hide_border=false" alt="GitHub Streak Stats" style="max-width: 100%;">
 </a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=11914835&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="GitHub Top Languages" style="max-width: 100%;">
